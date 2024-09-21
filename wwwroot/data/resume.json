@@ -1,0 +1,51 @@
+{
+  "about": "Software Developer | Community Builder",
+  "experiences": [
+    {
+      "companyname": "Microsoft",
+      "title": "Student Ambassador ",
+      "tenure": "Dec 2023 - Present",
+      "description": "Engage with our student community to explore diverse Microsoft tools."
+    },
+    {
+      "companyname": "KloudStac",
+      "title": "AI & Cloud Research Intern",
+      "tenure": "May 2024 - August 2024",
+      "description": "Research about Cloud and AI for the company"
+    }
+  ],
+  "educations": [
+    {
+      "name": "RV University",
+      "degreeyear": "2022- 2026",
+      "description": "Bachelor of Technology in Computer Science and Engineering"
+    },
+    {
+      "name": "Deeksha Jnana Sweeker PU College",
+      "degreeyear": "2020- 2022",
+      "description": "11th - 12th standard"
+    },
+    {
+      "name": "BGS National Public School",
+      "degreeyear": "2005- 2020",
+      "description": "PKG - 10th standard"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "estimatedlevel": 5,
+      "estimateddescription": "Excellent"
+    },
+    {
+      "name": "CSS",
+      "estimatedlevel": 5,
+      "estimateddescription": "Excellent"
+    },
+    {
+      "name": "Java",
+      "estimatedlevel": 5,
+      "estimateddescription": "Excellent"
+    }
+  ]
+}

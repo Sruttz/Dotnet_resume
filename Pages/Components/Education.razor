@@ -1,0 +1,12 @@
+@using Types
+@namespace resume_dotnet
+
+<div class="education">
+  <h3>@data?.Name (@data?.DegreeYear)</h3>
+  <div>@data?.Description</div>
+</div>
+
+@code {
+  [Parameter]
+  public EducationModel? data { get; set; }
+}
